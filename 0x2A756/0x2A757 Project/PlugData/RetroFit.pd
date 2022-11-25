@@ -1,0 +1,38 @@
+#N canvas 827 239 527 327 12;
+#N canvas 0 50 450 250 (subpatch) 0;
+#X text 0 0 plugdatainfo <?xml version="1.0" encoding="UTF-8"?> <PlugDataInfo/>
+;
+#X coords 0 1 100 -1 1 1 1;
+#X restore 0 0 graph;
+#X obj 296 416 downsample~;
+#X floatatom 444 367 9 -3.40282e+38 3.40282e+38 0 - - - 12;
+#X obj 453 225 loadbang;
+#X msg 451 318 11000;
+#X obj 545 318 sr~;
+#X obj 545 280 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
+#5a5a5a #5a5a5a;
+#X obj 453 280 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
+#5a5a5a #5a5a5a;
+#X text 484 279 Retro;
+#X text 574 283 Clean;
+#X obj 349 278 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
+#5a5a5a #5a5a5a;
+#X msg 362 318 8000;
+#X text 374 277 Extreme;
+#X text 519 370 Sample Rate;
+#X obj 277 498 dac~;
+#X obj 207 241 adc~;
+#X obj 173 416 downsample~;
+#X connect 1 0 14 1;
+#X connect 2 0 1 1;
+#X connect 2 0 16 1;
+#X connect 3 0 7 0;
+#X connect 4 0 2 0;
+#X connect 5 0 2 0;
+#X connect 6 0 5 0;
+#X connect 7 0 4 0;
+#X connect 10 0 11 0;
+#X connect 11 0 2 0;
+#X connect 15 0 16 0;
+#X connect 15 1 1 0;
+#X connect 16 0 14 0;
