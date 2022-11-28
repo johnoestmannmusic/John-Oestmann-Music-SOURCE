@@ -179,7 +179,7 @@
 #X restore 0 0 graph;
 #N canvas 0 50 450 250 (subpatch) 0;
 #X array BitcrushSettings 4 float 3;
-#A 0 0.2 0.445 0 0;
+#A 0 0.445 0.445 0 0;
 #X coords 0 1 4 0 106 48 1;
 #X restore 492 231 graph;
 #X obj 321 29 loadbang;
@@ -289,7 +289,7 @@
 #X text 1172 748 Envelope;
 #N canvas 0 50 450 250 (subpatch) 0;
 #X array EnvArray 6 float 3;
-#A 0 79 10 30 0.001 93 0;
+#A 0 93 10 30 0.001 90 0;
 #X coords 0 1500 6 0 84 58 1;
 #X restore 1550 680 graph;
 #X obj 1249 633 tabread EnvArray;
@@ -321,7 +321,7 @@
 #X obj 843 503 tabwrite PitchArray;
 #N canvas 0 50 450 250 (subpatch) 0;
 #X array PitchArray 4 float 3;
-#A 0 4.18 12.27 1 0;
+#A 0 1 12.27 1 0;
 #X coords 0 20000 4 0 84 58 1;
 #X restore 1552 591 graph;
 #X obj 910 415 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4

@@ -8,13 +8,13 @@
 #X floatatom 444 367 9 -3.40282e+38 3.40282e+38 0 - - - 12;
 #X obj 453 225 loadbang;
 #X msg 451 318 11000;
-#X obj 545 318 sr~;
-#X obj 545 280 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
+#X obj 661 326 sr~;
+#X obj 661 288 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
 #5a5a5a #5a5a5a;
 #X obj 453 280 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
 #5a5a5a #5a5a5a;
 #X text 484 279 Retro;
-#X text 574 283 Clean;
+#X text 690 291 Clean;
 #X obj 349 278 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
 #5a5a5a #5a5a5a;
 #X msg 362 318 8000;
@@ -23,10 +23,14 @@
 #X obj 277 498 dac~;
 #X obj 207 241 adc~;
 #X obj 173 416 downsample~;
+#X obj 555 280 bng 25 250 50 0 empty empty empty 17 7 0 10 #e4e4e4
+#5a5a5a #5a5a5a;
+#X text 586 279 Retro;
+#X msg 553 318 13000;
 #X connect 1 0 14 1;
 #X connect 2 0 1 1;
 #X connect 2 0 16 1;
-#X connect 3 0 7 0;
+#X connect 3 0 17 0;
 #X connect 4 0 2 0;
 #X connect 5 0 2 0;
 #X connect 6 0 5 0;
@@ -36,3 +40,5 @@
 #X connect 15 0 16 0;
 #X connect 15 1 1 0;
 #X connect 16 0 14 0;
+#X connect 17 0 19 0;
+#X connect 19 0 2 0;
