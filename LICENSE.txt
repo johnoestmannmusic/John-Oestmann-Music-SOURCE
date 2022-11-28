@@ -1,6 +1,6 @@
 License: No Cost - Open Source - Share Alike (NC-OS-SA)
 
-All included project files, tools and exported media in this repository are available to be used, and derivative works created under this NC-OS-SA license.
+All included project files, tools and exported media in this repository are available to be used, studied, and derivative works created under this NC-OS-SA license.
 This means that:
 1) You can use, study and/or change what you find in the included project files for use in your own derivative works, under the following conditions.
 2) NO COST: These tools, files or media can be used, studied, or changed at no financial cost. If you have paid for them, then the seller has breached this license.
