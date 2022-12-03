@@ -1,10 +1,27 @@
 License: No Cost - Open Source - Share Alike (NC-OS-SA)
 
-All included project files, tools and exported media in this repository are available to be used, studied, and derivative works created under this NC-OS-SA license.
-This means that:
-1) You can use, study and/or change what you find in the included project files for use in your own derivative works, under the following conditions.
-2) NO COST: These tools, files or media can be used, studied, or changed at no financial cost. If you have paid for them, then the seller has breached this license.
+All included project files, tools and exported media in this repository are available to be used, studied, and copy-derivative works created under this NC-OS-SA license.
+
+Terms:
+a)	In this context of this license, the term "copy-derivative" refers to any works created containing whole or sections copied from included code, files, media or tools. Knowledge gained from the study of included artifacts, then applied in a new creation, is not bound by the limitations of this license.
+b)	In the context of this license, the term "artifacts" refers to media, project files and/or tools included under this license.
+
+Conditions:
+1) You can use, study and/or change what you find in the included project files for use in your own copy-derivative works, under the following conditions:
+2) NO COST: These included tools, files or media can be used, studied, or changed at no financial cost. If your only option for access to these included artifacts are through paid option(s), then the seller has breached this license.
 3) OPEN SOURCE: Project files used to create the included media must also be included in the distributed release so that users may use, study, or change the project contents.
-4) SHARE ALIKE: You can publish or distribute your own works derived from the included tools, files and/or media, as long as your derivate works are distributed under this same NC-OS-SA license.
-5) No credit needs to be given to any original authors for derivative works, so long as the derivate work is distributed under this same NC-OS-SA license.
+4) SHARE ALIKE: You can publish or distribute your own works derived from the included tools, files and/or media, as long as your copy-derivative works are distributed under this same NC-OS-SA license.
+5) No credit/attribution needs to be given to any original authors for copy-derivative works, so long as the copy-derivative work is distributed under this same NC-OS-SA license.
 6) The files, tools and/or media is provided "as is", without warranty of any kind, express or implied, including, but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the included files, tools and/or media or the use or other dealings in the included files, tools and/or media.
+
+Clarifications:
+i) No Cost does not mean non-commercial. The included media, project files and/or tools may be used within a commercial platform, or a paid option can exist. However, there must be a no-financial-cost and clear route to accessing ALL included artifacts for public access. A paid version of this copy-derivative product must also be distributed with this license to make it clear that a no-cost route is available.
+	For example: a copy-derivative product may be published to video streaming website even if that streaming 	website has an option for a paid subscription, ONLY IF the general public also has a clear option to, AT NO FINANCIAL COST, access and use the copy-derivative product and artifacts under this same NC-OS-SA license.
+
+	Another example: a copy-derivative product may be distributed through a "pay-what-you-want" model, given that the minimum price is free / no-cost. 
+
+Philosophy:
+[Please note that this section, titled “Philosophy”, does not constitute legal restrictions, but further explanation to the “spirit” of this license. It must, however, be included and unaltered as part of the license in copy-derivative distributions.]
+The NC-OS-SA license was created in the spirit of increasing the pool of tools and resources in the digital public commons. It’s key point of difference from other open source licenses is its aim to prevent cost-prohibitive access to any of its included artifacts and source (which has been seen in some other open source projects). It uses a Share Alike clause to prevent copy-derivative products from simply taking these artifacts and putting a price on them.
+The more we can remove the financial and other barriers from access to tools, source, learning and culture, the more we can empower people humanity-wide regardless of socioeconomic situation. Cheap technology and education are great. No-cost and publicly available technology and education are the ideal. This is what this license aims to create and spread.
+
