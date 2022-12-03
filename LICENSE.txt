@@ -3,7 +3,7 @@ License: No Cost Access - Open Source - No Attribution - Share Alike (NCA-OS-NA-
 All included project files and exported media in this repository are available to be used, studied, and copy-derivative works created under this license.
 
 Terms:
-a) In the context of this license, the term "artifacts" refers to digital media, code, and/or project files included under this license.
+a) In the context of this license, the term "artifact" or "artifacts" refer to digital media, code, and/or project files included under this license.
 b) In the context of this license, the term "copy-derivative" refers to any works created containing whole or sections copied from included artifacts. Knowledge gained from the study of included artifacts, then applied in a new creation, is not bound by the limitations of this license.
 
 Conditions:
