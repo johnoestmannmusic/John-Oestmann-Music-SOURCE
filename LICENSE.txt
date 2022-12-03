@@ -16,12 +16,12 @@ Conditions:
 
 Clarifications:
 i) No Cost does not mean non-commercial. The included media, project files and/or tools may be used within a commercial platform, or a paid option can exist. However, there must be a no-financial-cost and clear route to accessing ALL included artifacts for public access. A paid version of this copy-derivative product must also be distributed with this license to make it clear that a no-cost route is available.
-	Example 1: a copy-derivative product may be published to video streaming website even if that streaming 	website has an option for a paid subscription, ONLY IF the general public also has a clear option to, AT NO FINANCIAL COST, access and use the copy-derivative product and artifacts under this same NC-OS-SA license.
+	Example 1: a copy-derivative product may be published to video streaming website even if that streaming website has an option for a paid subscription, ONLY IF the general public also has a clear option to, AT NO FINANCIAL COST, access and use the copy-derivative product and artifacts under this same NC-OS-SA license.
 	Example 2: a copy-derivative product may be distributed through a "pay-what-you-want" model, given that the minimum price is free / no-cost. 
 	Example 3: The artifacts under this license may be used in a marketing campaign for a commercial product, ONLY IF the general public is presented with a clear route to, AT NO FINANCIAL COST, access and use the copy-derivative marketing product and artifacts under this same NC-OS-SA license.
 
 Philosophy:
 [Please note that this section, titled “Philosophy”, does not constitute legal restrictions, but further explanation to the “spirit” of this license. It must, however, be included and unaltered as part of the license in copy-derivative distributions.]
 The NC-OS-SA license was created in the spirit of increasing the pool of tools and resources in the digital public commons. It’s key point of difference from other open source licenses is its aim to prevent cost-prohibitive access to any of its included artifacts and source (which has been seen in some other open source projects). It uses a Share Alike clause to prevent copy-derivative products from simply taking these artifacts and putting a price on them.
-The more we can remove the financial and other barriers from access to tools, source, learning and culture, the more we can empower people humanity-wide regardless of socioeconomic situation. Cheap technology and education are great. No-cost and publicly available technology and education are the ideal. This is what this license aims to create and spread.
 
+The more we can remove the financial and other barriers from access to tools, source, learning and culture, the more we can empower people humanity-wide regardless of socioeconomic situation. Cheap technology and education are great. No-cost and publicly available technology and education are the ideal. This is what this license aims to create and spread.
