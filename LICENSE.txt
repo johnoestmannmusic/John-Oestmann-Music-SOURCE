@@ -15,6 +15,7 @@ Conditions:
 4) NO ATTRIBUTION: No credit/attribution is required to be given to any original authors for copy-derivative works.
 5) SHARE ALIKE: You can publish or distribute your own works copy-derived from the included artifacts, given that copy-derivative works are distributed under this same license. A copy of this license must be included in your copy-derivative work.
 6) The included artifacts are provided "as is", without warranty of any kind, express or implied, including, but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the included artifacts or the use or other dealings in the included artifacts.
+7) The author of the work under this license ("this author") consents that no credit/accreditation/attribution is required to this author for any copy-derivatives of this work.
 
 Clarifications:
 i) "No Cost Access" does not mean non-commercial. The included artifacts may be used within a commercial platform, or a paid option can exist. However, there must be a clear no-financial-cost option to accessing ALL included artifacts for the general public (and not requiring a user account for access). A paid and/or account version of this copy-derivative product must also be distributed with this same license to make it clear that a no-cost option is available.
