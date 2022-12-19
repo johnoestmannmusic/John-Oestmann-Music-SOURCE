@@ -1,0 +1,1 @@
+Note that these PlugData patches may not open correctly with the Live project. If this is the case, you will simply need to go through each Live instrument, and inside the PlugData plugin, close and re-open the patch.
