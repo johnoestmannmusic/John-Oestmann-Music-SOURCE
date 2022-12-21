@@ -10,7 +10,7 @@ DEFINED TERMS AND INTERPRETATION
 In the context of this license:
 
 a)	the terms "artifact" or "artifacts" refer to copyright works and subject matter other than works, 
-	including digital media, code, and/or project files the subject matter of this license;
+	including digital media, code, and/or project files as the subject matter of this license;
 
 b)	the terms "copy-derivative" or "copy-derived" refer to any artifact created by the licensee 
 	containing whole or sections copied, derived, modified or adapted from artifacts subject to the terms of 
