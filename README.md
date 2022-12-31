@@ -6,6 +6,8 @@ You can find my reasons for using the DCC license here: https://medium.com/@john
 
 You can also keep up to date with this music on YouTube: https://www.youtube.com/channel/UC_i11eAdIZUMqPG3dKrhd7g
 
-or download the full released albums at no cost from Bandcamp: https://johnoestmann.bandcamp.com/
+You can download the full released albums at no cost from Bandcamp: https://johnoestmann.bandcamp.com/
 
 For enquiries, use the 'Contact' button through my main website: https://www.soundworlds.com.au/ 
+
+If you want to keep up with everything I'm up to, follow me on Mastodon: https://mastodon.gamedev.place/@soundworlds
