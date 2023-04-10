@@ -1,12 +1,4 @@
 //0x2A763-ii
-//Scene Design Pseudocode
-/*
-[x]Drums really need to be given the space to be the focus this time.
-[ ]Use long ringing chords on the 1 (or another impactful beat).
-    Chords should vibe like mens choir or sine, or similar rounded tone. Not harsh like square or saw.
-[ ]Use something new/experiment for the sound design of the pad stab
-
-*/
 
 // SETUP /////////////////////////////////////
 //s.options.device_("ASIO : ASIO4ALL v2");
