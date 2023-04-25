@@ -15,6 +15,7 @@ a)	Copy-Derivative: the terms "copy-derivative" or "copy-derived" refer to any a
 	These terms also refer to artifacts created using included tools (e.g. media you create using including tools is considered a copy-derivative). 
 	This does not restrict knowledge gained from the study of those artifacts, then applied in an otherwise original
 	work, invention or other intellectual property asset. Such knowledge gained is free/exempt from this license.
+	Note: hyperlinks to, or website embeds of this licensed work are not considered copy-derivatives.
 
 b)	Artifacts: The terms "artifact" or "artifacts" refer to included digital media, code, and/or project files 
 	included under this license (Legal: this constitutes copyright works and subject matter other than works as subject matter 
