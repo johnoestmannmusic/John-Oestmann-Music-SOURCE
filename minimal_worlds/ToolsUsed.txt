@@ -1,1 +1,2 @@
-00-alabaster_shore.dnm - Dn-FamiTracker
+00-alabaster_shore.dnm - Dn-FamiTracker [2A03]
+01-house_of_the_shogun.fur - Furnace Tracker [Gameboy]
