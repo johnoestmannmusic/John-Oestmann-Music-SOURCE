@@ -1,0 +1,4 @@
+Software Used
+----------------
+Reaper: https://www.reaper.fm/
+Surge XT (Free + Open Source): https://surge-synthesizer.github.io/ 
