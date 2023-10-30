@@ -2,3 +2,4 @@
 01-house_of_the_shoguns_son - Furnace Tracker [Gameboy]
 02-tower_of_vera - Furnace Tracker [Gameboy]
 03-pneumasprite_pond - Furnace Tracker [Gameboy]
+04-mt_solace - Renoise, with GB samples recorded from Furnace tracker
