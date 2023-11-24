@@ -1,6 +1,4 @@
-![image](https://github.com/Soundworlds-JO/Soundworlds-Datapedia/assets/106002866/7c67be5f-5f24-46c6-8bce-8a729b0408d6)# Soundworlds-Datapedia
-
-Welcome to the Official Repo of John Oestmann’s music.
+Welcome to the Official Repo of **John Oestmann’s Music**.
 
 Official website here: https://johnoestmannmusic.com/
 
