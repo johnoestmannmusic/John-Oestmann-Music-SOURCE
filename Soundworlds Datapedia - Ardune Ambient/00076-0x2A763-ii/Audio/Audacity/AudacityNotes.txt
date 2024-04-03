@@ -1,1 +1,0 @@
-I used Audacity to trim the audio from the SuperCollider recording and amplify/limit it.

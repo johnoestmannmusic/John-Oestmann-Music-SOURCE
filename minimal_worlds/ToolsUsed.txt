@@ -1,8 +1,0 @@
-00-alabaster_shore.dnm - Dn-FamiTracker [2A03]
-01-house_of_the_shoguns_son - Furnace Tracker [Gameboy]
-02-tower_of_vera - Furnace Tracker [Gameboy]
-03-pneumasprite_pond - Furnace Tracker [Gameboy]
-04-mt_solace - Renoise, with GB samples recorded from Furnace tracker
-05-selenas_field - Furnace Tracker [Gameboy]
-06-golden_battletrain - Furnace Tracker [Gameboy]
-07-broken_window - Furnace Tracker [Gameboy]

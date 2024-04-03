@@ -1,3 +1,0 @@
-- inkarnate.com
-- Aseprite
-- DrawAttention WordPress plugin (for interactivity)
